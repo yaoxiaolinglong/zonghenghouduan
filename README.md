@@ -85,7 +85,9 @@ JWT_SECRET=your_jwt_secret_key
 
 ## 作者 | Author
 
-**yaoxiaolinglong** (@yaoxiaolinglong)
+**yaoxiaolinglong** (没工作在线要饭打钱) 
 
-- GitHub: [https://github.com/yaoxiaolinglong](https://github.com/yaoxiaolinglong)
+[![pENevQA.jpg](https://s21.ax1x.com/2025/03/09/pENevQA.jpg)](https://imgse.com/i/pENevQA)
+
+- GitHub: [https://github.com/yaoxiaolinglong](https://github.com/yaoxiaolinglong) 
 - Email: yaoxiaolinglong@foxmail.com 
