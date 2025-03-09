@@ -67,9 +67,9 @@ If you find an issue but don't have time to fix it, feel free to create an Issue
 
 ## 联系方式 | Contact
 
-如有任何问题，请联系项目维护者：yaoxiaolinglong@example.com
+如有任何问题，请联系项目维护者：yaoxiaolinglong@foxmail.com
 
-If you have any questions, please contact the project maintainer: yaoxiaolinglong@example.com
+If you have any questions, please contact the project maintainer: yaoxiaolinglong@foxmail.com
 
 ---
 

@@ -81,4 +81,11 @@ Configure the following environment variables in the `.env` file:
 PORT=5000
 MONGO_URI=mongodb://localhost:27017/zongheng-tianxia
 JWT_SECRET=your_jwt_secret_key
-``` 
+```
+
+## 作者 | Author
+
+**yaoxiaolinglong** (@yaoxiaolinglong)
+
+- GitHub: [https://github.com/yaoxiaolinglong](https://github.com/yaoxiaolinglong)
+- Email: yaoxiaolinglong@foxmail.com 

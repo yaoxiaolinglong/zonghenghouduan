@@ -3183,3 +3183,14 @@ The Player System manages player information, inventory, and resources in the ga
 ---
 
 *文档最后更新: 2025年3月10日* 
+
+## 作者信息 | Author Information
+
+**作者 | Author**: yaoxiaolinglong (@yaoxiaolinglong)  
+**联系方式 | Contact**: yaoxiaolinglong@foxmail.com  
+**GitHub**: https://github.com/yaoxiaolinglong
+
+---
+
+版权所有 © 2023-2025 yaoxiaolinglong. 保留所有权利。  
+Copyright © 2023-2025 yaoxiaolinglong. All rights reserved.

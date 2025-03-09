@@ -19,7 +19,7 @@ The following versions of the "Zongheng Tianxia" game backend service are curren
 
 We take security issues very seriously. If you discover a security vulnerability, please report it via:
 
-**电子邮件 Email**: security-yaoxiaolinglong@example.com
+**电子邮件 Email**: yaoxiaolinglong@foxmail.com
 
 请在您的报告中包含以下信息：
 - 漏洞的详细描述

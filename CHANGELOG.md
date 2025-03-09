@@ -125,4 +125,4 @@ This document records all notable changes to the "Zongheng Tianxia" game backend
 ---
 
 *更新日志维护者 | Changelog Maintainer*: yaoxiaolinglong  
-*联系方式 | Contact*: yaoxiaolinglong@example.com 
+*联系方式 | Contact*: yaoxiaolinglong@foxmail.com 
